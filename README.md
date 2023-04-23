@@ -1,0 +1,2 @@
+# NetVersion
+SimpleappcheckNetversion
